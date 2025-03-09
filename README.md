@@ -10,6 +10,8 @@ maybe in the future i will add :
 -clip
 -pose modified 
 -auto head/auto pot
+-scaffold 
+(bypass ncp/grim)
 
 
 
